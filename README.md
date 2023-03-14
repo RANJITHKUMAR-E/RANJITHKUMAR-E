@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithkumar-e&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithkumar-e" /> </p>
 
-- 🔭 I’m currently working on **Consultancy project**
+<img align="right" alt="Coding" width="400" src="https://vanjapetrovic.com/img/front.gif](https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
+
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [https://ranjithkumar-e.github.io/Portfolio/images/RanjithKumar_CV.png](https://ranjithkumar-e.github.io/Portfolio/images/RanjithKumar_CV.png)
 
-- ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids.**
+- ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
