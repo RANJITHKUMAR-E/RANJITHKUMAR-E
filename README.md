@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences in [**my resume**](https://ranjithkumar-e.github.io/Portfolio/images/RanjithKumar_CV.png)
 
-- ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids.**
+- ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids**
 
 
 <h1 style="font-size:32px;
