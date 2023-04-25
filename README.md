@@ -109,4 +109,4 @@
 <br>
 
 
-![RK's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ranjithkumar-e&custom_title=RK's Activity Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![RK's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ranjithkumar-e&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
