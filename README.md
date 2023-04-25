@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ranjithkumarstudies@gmail.com**
 
-- 📄 Know about my experiences [https://ranjithkumar-e.github.io/Portfolio/images/RanjithKumar_CV.png](https://ranjithkumar-e.github.io/Portfolio/images/RanjithKumar_CV.png)
+- 📄 Know about my experiences [resume](https://ranjithkumar-e.github.io/Portfolio/images/RanjithKumar_CV.png)
 
 - ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids. **
 
